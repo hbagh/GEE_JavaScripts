@@ -2,7 +2,7 @@
 This repository contains practical tutorial scripts for various geospatial analysis tasks using Google Earth Engine's JavaScript API. 
 
 ### Tutorial: 
-📌 Script: [Calculate_Indices1.js](https://github.com/hbagh/GEE_JavaScripts/blob/main/GEE_JavaScript/Calculate_Indices1.js)
+📌 Script: [Calculate_Indices1.js](https://github.com/hbagh/GEE_JavaScripts/blob/main/GEE_JavaScript/Calculate_Indices1.js), [Calculate_Indices1.ipynb](https://github.com/hbagh/GEE_JavaScripts-Python/blob/main/GEE_Basic_Python/Calculate_Indices1.ipynb)
 
 🔹 Description:
 
@@ -13,7 +13,7 @@ This repository contains practical tutorial scripts for various geospatial analy
 * Visualizes results using custom color palettes.
 
 
-📌 Script: [Calculate_Indices2_Map.js](https://github.com/hbagh/GEE_JavaScripts/blob/main/GEE_JavaScript/Calculate_Indices2_Map.js)
+📌 Script: [Calculate_Indices2_Map.js](https://github.com/hbagh/GEE_JavaScripts/blob/main/GEE_JavaScript/Calculate_Indices2_Map.js), [Calculate_Indices2_Map.ipynb](https://github.com/hbagh/GEE_JavaScripts-Python/blob/main/GEE_Basic_Python/Calculate_Indices2_Map.ipynb)
 
 🔹 Description:
 
